@@ -1,5 +1,5 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQHrK1…eta&t=FgwMwBmUPBx_XMmOGYYWIdGgRKqo0GE-Cf1HIGc6Tw4
-)" />
+![1662647214568](https://user-images.githubusercontent.com/109575505/198816511-bc3f47a2-966e-4afb-a0b8-6311857aa920.jpeg)
+
 <h1 align="center">Hi 👋, I'm Abdulla Nasar</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
